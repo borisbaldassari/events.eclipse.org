@@ -1,0 +1,15 @@
+items:
+  - name: "Gaël Blondelle"
+    title: "VP Ecosystem Development (Eclipse Foundation)"
+    img: gael_blondelle.jpg
+  - name: "Paula Grzegorzewska"
+    title: "Senior Policy Advisor (OpenForum Europe)"
+    img: paula-grzegorzewska.jpeg
+  - name: "Martin Welß"
+    title: "Senior AI Solution Architect (AI4EU, IAIS Fraunhofer)"
+    img: martin-welss.jpeg
+  - name: "Pierre Gronlier"
+    title: "Chief Technology Officer (GAIA-X AISBL)"
+    img: pierre-gronlier.jpeg
+
+

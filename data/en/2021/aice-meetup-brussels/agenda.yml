@@ -1,0 +1,64 @@
+complete: false
+types:
+    - name: Keynote 
+      id: keynote 
+      color: "#f79623"
+    - name: Session 1 - AI
+      id: session_1
+      color: "#DDA0DD"
+    - name: Session 2 - Cloud
+      id: session_2
+      color: "#BA55D3"
+    - name: Session 3 - Edge
+      id: session_3
+      color: "#800080"
+
+items:
+    - name: Registration
+      time: 09:00 - 09:30 (CEST)
+    - name: Welcome speech and agenda
+      presenter: Gaël Blondelle (Eclipse Foundation)
+      time: 09:30 - 09:45 (CEST)
+    - name: EC OSS Study and AI Policy
+      presenter: Paula Grzegorzewska (OpenForum Europe)
+      type: keynote
+      time: 09:45 - 10:15 (CEST)
+    - name: Gaia-X and AI
+      presenter: Pierre Gronlier (Gaia-X)
+      type: keynote
+      time: 11:15 - 11:00 (CEST) 
+    - name: The AICE OpenLab - Showcase AICE OpenLab Pilot
+      presenter: Gaël Blondelle, Boris Baldassari (Eclipse Foundation)
+      type: keynote
+      time: 11:15 - 12:00 (CEST) 
+
+    - name: AI4EU Experiments
+      presenter: Martin Welss (Fraunhofer IAIS)
+      type: session_1
+      time: 13:00 - 13:30 (CEST)
+    - name: Open Services Cloud
+      presenter: Bryan Che (Huawei)
+      type: session_2
+      time: 13:00 - 13:30 (CEST)
+    - name: OpenHarmony and AI
+      presenter: Andrea Basso (Synesthesia), Adrian O'Sullivan (Huawei)
+      type: session_3
+      time: 13:00 - 13:30 (CEST)
+
+    - name: MindSpore
+      presenter: TBD
+      type: session_1
+      time: 13:30 - 14:00 (CEST)
+    - name: Open Cloud developments
+      presenter: SDIA / OpenUK / Warren.io
+      type: session_2
+      time: 13:30 - 14:00 (CEST)
+    - name: Open Euler
+      presenter: Mauro Carvalho Chehab, Roberto Sassu
+      type: session_3
+      time: 13:30 - 14:00 (CEST)
+
+    - name: Open Discussion
+      time: 15:00 - 15:45 (CEST)
+    - name: Closing / Drinks
+      time: 15:45 - 17:00 (CEST)
