@@ -2,7 +2,7 @@
 title: "AICE Working Group Meetup in Brussels"
 headline: "AICE Working Group Meetup - Brussels"
 subtitle: ""
-tagline: "Hybrid meetup | November 24, 2021 9:00 - 17:00 (CEST)"
+tagline: "Meetup | November 24, 2021 9:00 - 17:00 (CEST)"
 date: 2021-11-24T09:00:00+02:00
 hide_page_title: true
 hide_sidebar: true
