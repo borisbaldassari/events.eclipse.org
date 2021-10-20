@@ -20,7 +20,7 @@ The AICE OpenLab meetup is the first opportunity we have to join together after 
 
 The adoption of AI, Cloud & Edge technologies and solutions highly depends on security, privacy and open specifications. Therefore Eclipse Foundation has initiated the AICE (AI, Cloud & Edge) OpenLab: the open, vendor neutral hands-on collaborative environment to foster interoperability and compatibility in AI, Cloud and Edge with Open Source. The AICE OpenLab aims to provide testbeds and open source governance for industry, research institutes and academia to experiment, evaluate and validate AI technologies on different cloud and edge architectures. During this meetup, we will also unveil the healthcare pilot project of the AICE OpenLab.
 
-Join us, Wednesday, November 24th in Brussels, for this face to face and virtual event!
+Join us, Wednesday, November 24th in Brussels, for this face to face event!
 
 
 

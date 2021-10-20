@@ -3,11 +3,11 @@ types:
     - name: Keynote 
       id: keynote 
       color: "#f79623"
-    - name: Session 1 - AI
+    - name: Afternoon Session
       id: session_1
       color: "#DDA0DD"
-    - name: Session 2 - Cloud
-      id: session_2
+    - name: Breaks
+      id: break
       color: "#BA55D3"
     - name: Session 3 - Edge
       id: session_3
@@ -15,50 +15,71 @@ types:
 
 items:
     - name: Registration
-      time: 09:00 - 09:30 (CEST)
+      time: 08:30 - 09:15 (CEST)
     - name: Welcome speech and agenda
       presenter: Gaël Blondelle (Eclipse Foundation)
-      time: 09:30 - 09:45 (CEST)
+      time: 09:15 - 09:30 (CEST)
     - name: EC OSS Study and AI Policy
       presenter: Paula Grzegorzewska (OpenForum Europe)
       type: keynote
-      time: 09:45 - 10:15 (CEST)
+      time: 09:30 - 10:00 (CEST)
     - name: Gaia-X and AI
       presenter: Pierre Gronlier (Gaia-X)
       type: keynote
-      time: 11:15 - 11:00 (CEST) 
+      time: 10:00 - 10:30 (CEST) 
+
+    - name: Coffee Break
+      time: 10:30 - 10:45 (CEST)
+
     - name: The AICE OpenLab - Showcase AICE OpenLab Pilot
       presenter: Gaël Blondelle, Boris Baldassari (Eclipse Foundation)
       type: keynote
-      time: 11:15 - 12:00 (CEST) 
+      time: 10:45 - 11:30 (CEST) 
+    - name: AURAI
+      presenter: Carles Sierra (CSIC)
+      type: keynote
+      time: 11:30 - 12:00 (CEST) 
+
+    - name: Lunch
+      time: 12:00 - 13:00 (CEST)
 
     - name: AI4EU Experiments
       presenter: Martin Welss (Fraunhofer IAIS)
       type: session_1
       time: 13:00 - 13:30 (CEST)
-    - name: Open Services Cloud
-      presenter: Bryan Che (Huawei)
-      type: session_2
-      time: 13:00 - 13:30 (CEST)
-    - name: OpenHarmony and AI
-      presenter: Andrea Basso (Synesthesia), Adrian O'Sullivan (Huawei)
-      type: session_3
-      time: 13:00 - 13:30 (CEST)
-
     - name: MindSpore
-      presenter: TBD
+      presenter: Jean-Baptiste Onofre (Huawei)
       type: session_1
       time: 13:30 - 14:00 (CEST)
-    - name: Open Cloud developments
-      presenter: SDIA / OpenUK / Warren.io
-      type: session_2
-      time: 13:30 - 14:00 (CEST)
-    - name: Open Euler
-      presenter: Mauro Carvalho Chehab, Roberto Sassu
-      type: session_3
-      time: 13:30 - 14:00 (CEST)
+    - name: CEA
+      presenter: TBD
+      type: session_1
+      time: 14:00 - 14:30 (CEST)
 
-    - name: Open Discussion
-      time: 15:00 - 15:45 (CEST)
+    - name: Break
+      time: 14:30 - 14:45 (CEST)
+
+    - name: Open Services Cloud
+      presenter: Bryan Che (Huawei)
+      type: session_1
+      time: 14:45
+    - name: Sustainable Digital Infrastructure Alliance
+      presenter: Max Schulze (SDIA)
+      type: session_1
+      time: 
+    - name: Open Euler
+      presenter: Mauro Carvalho Chehab, Roberto Sassu (Huawei)
+      type: session_1
+      time: 
+    - name: ADLink
+      presenter: Gaël Blondelle (Eclipse Foundation)
+      type: session_1
+      time: 
+    - name: Eurotech
+      presenter: TBD
+      type: session_1
+      time: 
+
     - name: Closing / Drinks
       time: 15:45 - 17:00 (CEST)
+
